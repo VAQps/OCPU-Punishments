@@ -1,0 +1,10 @@
+This is the containing document for user permissions, and what they can do/request from staff.
+
+0.1 - All User Permissions
+  0.0.1 - Can ask staff for:
+    0.0.0.1 - Help in moderation of a room they own/have roomauth on, If its in English (Some rare cases may be used for people of other languages)
+    0.0.0.2 - Help in roomintro creation (HTML), However you cannot ask for anything related to crime or anything related to porn.
+    0.0.0.3 - Help in getting an advertiser banned from the server.
+    0.0.0.4 - Help in getting a bug fixed/patched from the server.
+    
+    
